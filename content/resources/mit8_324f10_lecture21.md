@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to renormalization group flow.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-324-relativistic-quantum-field-theory-ii-fall-2010/053919e8f0c9f79bd9ac7ae664d3bb60_MIT8_324F10_Lecture21.pdf
+file: /media/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/053919e8f0c9f79bd9ac7ae664d3bb60_MIT8_324F10_Lecture21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT8_324F10_Lecture21.pdf
 uid: 053919e8-f0c9-f79b-d9ac-7ae664d3bb60

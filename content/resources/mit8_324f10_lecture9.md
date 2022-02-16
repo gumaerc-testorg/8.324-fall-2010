@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to removing ultraviolet divergences.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-324-relativistic-quantum-field-theory-ii-fall-2010/9931a2068899fda568129c581ff11674_MIT8_324F10_Lecture9.pdf
+file: /media/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/9931a2068899fda568129c581ff11674_MIT8_324F10_Lecture9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT8_324F10_Lecture9.pdf
 uid: 9931a206-8899-fda5-6812-9c581ff11674
