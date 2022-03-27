@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1247ed58-69f7-9088-8d73-398ec4334f45
 resourcetype: Document
 title: MIT8_324F10_Lecture23.pdf
 uid: 68c19784-d41c-0823-be21-6a2c43c38f3d

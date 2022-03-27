@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f5f9c4e6-e43b-5df7-f034-c0eb45f3fd94
 resourcetype: Document
 title: MIT8_324F10_lie_algebras3.pdf
 uid: dbe4c38c-5bd6-6da2-2315-508698db87ba
