@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to beta-functions from the
   traditional approach.
-file: /media/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/e92a3b04d344bd166fb5abbba7bcbe4f_MIT8_324F10_Lecture25.pdf
+file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/e92a3b04d344bd166fb5abbba7bcbe4f_MIT8_324F10_Lecture25.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: MIT8_324F10_Lecture25.pdf
 uid: e92a3b04-d344-bd16-6fb5-abbba7bcbe4f
 ---
+This resource contains information related to beta-functions from the traditional approach.
+
