@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture topic and information
+  on required and recommended texts.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: f5f9c4e6-e43b-5df7-f034-c0eb45f3fd94
 ---
@@ -45,7 +50,7 @@ Peskin and Schroeder chapter 15 and 16;
 
 Weinberg vol. 2 chapter 15;
 
-Prof. Zwiebach's notes on Lie algebras ([PDF]({{< baseurl >}}/resources/mit8_324f10_lie_algebras3)) (Courtesy of Prof. Barton Zwiebach.)
+Prof. Zwiebach's notes on Lie algebras ({{% resource_link dbe4c38c-5bd6-6da2-2315-508698db87ba "PDF" %}}) (Courtesy of Prof. Barton Zwiebach.)
 
 
 {{< tdclose >}}

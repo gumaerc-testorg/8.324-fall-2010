@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, assignments, exams, grading, and the
+  schedule of lecture topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a1094718-8f00-b0f2-34f3-81d930561012
 ---
@@ -35,7 +40,7 @@ A comprehensive and insightful treatment of the foundations of QFT.
 ———. _The Quantum Theory of Fields. Vol. 2: Modern Applications_. Cambridge, UK: Cambridge University Press, 1996. ISBN: 9780521550024.  
 A detailed presentation of advanced material.
 
-See the [readings]({{< baseurl >}}/pages/readings) section for a complete list of recommended texts.
+See the {{% resource_link f5f9c4e6-e43b-5df7-f034-c0eb45f3fd94 "readings" %}} section for a complete list of recommended texts.
 
 Assignments, Exams, Grading
 ---------------------------

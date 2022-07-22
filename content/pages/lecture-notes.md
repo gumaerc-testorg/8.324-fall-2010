@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and a full set of
+  lecture notes for this course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 1247ed58-69f7-9088-8d73-398ec4334f45
 ---
@@ -34,7 +39,7 @@ FILES
 Symmetries, Lie Groups and Lie Algebras
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture1))
+({{% resource_link 55d5413e-73d9-73bc-458b-8e1313124c38 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +51,7 @@ Symmetries, Lie Groups and Lie Algebras
 The Gauge Principle (Quantum Electrodynamics Revisited)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture2))
+({{% resource_link b29379ac-ed2b-46bb-e9f2-715922d72b10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ The Gauge Principle (Quantum Electrodynamics Revisited)
 Non-Abelian Generalizations: Yang-Mills Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture3))
+({{% resource_link fa941a1d-fc79-2c35-2ff2-3669a23f02de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +75,7 @@ Non-Abelian Generalizations: Yang-Mills Theory
 Non-Abelian Generalizations: Yang-Mills Theory (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture4))
+({{% resource_link 037bee68-05af-5c34-2ec1-37afeb631a9c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +87,7 @@ Non-Abelian Generalizations: Yang-Mills Theory (cont.)
 Quantization of Non-Abelian Gauge Theories
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture5))
+({{% resource_link 1b3e727b-1edc-d9b2-f411-82a3d8438701 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Quantization of Non-Abelian Gauge Theories
 Becchi-Rouet-Stora-Tyutin (BRST) Symmetry, Physical States and Unitarity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture6))
+({{% resource_link 573db088-e154-cfa4-0d05-a4b471461a28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Becchi-Rouet-Stora-Tyutin (BRST) Symmetry, Physical States and Unitarity
 Field and Mass Renormalizations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture7))
+({{% resource_link 5b5cf13e-2168-2d4e-e52d-f89ddbe87d1a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +129,7 @@ Field and Mass Renormalizations
 An Explicit Example
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture8))
+({{% resource_link a6474b32-e25c-000d-ec30-c9a737ef0e05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +141,7 @@ An Explicit Example
 Removing Ultraviolet Divergences
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture9))
+({{% resource_link 9931a206-8899-fda5-6812-9c581ff11674 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +153,7 @@ Removing Ultraviolet Divergences
 Unstable Particles and Resonances
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture10))
+({{% resource_link d32c13f5-e734-728b-eaec-81b7a4e363d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +165,7 @@ Unstable Particles and Resonances
 S-Matrix Elements and LSZ Reduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture11))
+({{% resource_link 9b9756b6-f73b-fd0c-558e-4ea9a933650d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +183,7 @@ S-Matrix Elements and LSZ Reduction
 Renormalized Lagrangian
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture12))
+({{% resource_link b74f3c93-aa88-2d44-b8cb-39e375372b45 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +195,7 @@ Renormalized Lagrangian
 Renormalized Lagrangian (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture13))
+({{% resource_link 565bce00-7bba-bc0e-457a-758d66c22814 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +207,7 @@ Renormalized Lagrangian (cont.)
 Vertex Function
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture14))
+({{% resource_link 0d50ef39-c801-edcf-ae57-9fa8d371c85d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +219,7 @@ Vertex Function
 Anomalous Magnetic Moment
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture15))
+({{% resource_link cd08ba6a-583a-c6f2-ef80-6347b2541199 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +231,7 @@ Anomalous Magnetic Moment
 Vacuum Polarization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture16))
+({{% resource_link 4011862a-0e45-c932-8c9e-ae315bab4517 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +249,7 @@ Vacuum Polarization
 Degrees of Divergences
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture17))
+({{% resource_link 767bcdcf-dd8b-7d72-9971-187a38939804 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +261,7 @@ Degrees of Divergences
 Cancellation of Divergences
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture18))
+({{% resource_link d45f6551-012e-1f0b-41c0-6c501be82367 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +273,7 @@ Cancellation of Divergences
 Cancellation of Divergences (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture19))
+({{% resource_link 88a9adf7-45a4-5805-26ea-6f632c7f7127 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -286,7 +291,7 @@ Cancellation of Divergences (cont.)
 Wilson's Approach to Field Theories
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture20))
+({{% resource_link afe2d047-abdb-715b-4dc8-feebd6ebb858 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -298,7 +303,7 @@ Wilson's Approach to Field Theories
 Renormalization Group Flow
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture21))
+({{% resource_link 053919e8-f0c9-f79b-d9ac-7ae664d3bb60 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +315,7 @@ Renormalization Group Flow
 Renormalization Group Flow (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture22))
+({{% resource_link e3612dd1-ff50-1a64-f7fd-2f9ae9f51766 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -322,7 +327,7 @@ Renormalization Group Flow (cont.)
 Renormalization Group Flow (cont.); Beta-Functions from the Traditional Approach
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture23))
+({{% resource_link 68c19784-d41c-0823-be21-6a2c43c38f3d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +339,7 @@ Renormalization Group Flow (cont.); Beta-Functions from the Traditional Approach
 Beta-Functions from the Traditional Approach (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture24))
+({{% resource_link d25d71d3-0b44-a5fe-4f53-d6de7ce8d3d3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -346,7 +351,7 @@ Beta-Functions from the Traditional Approach (cont.)
 Beta-Functions from the Traditional Approach (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture25))
+({{% resource_link e92a3b04-d344-bd16-6fb5-abbba7bcbe4f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -358,7 +363,7 @@ Beta-Functions from the Traditional Approach (cont.)
 Beta-Functions from the Traditional Approach (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit8_324f10_lecture26))
+({{% resource_link a962039d-d43d-e167-7160-d107c7dd8e5a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
