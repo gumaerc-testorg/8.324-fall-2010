@@ -6,6 +6,7 @@ file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/a962039dd43d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT8_324F10_Lecture26.pdf
 uid: a962039d-d43d-e167-7160-d107c7dd8e5a
 ---
 This resource contains information related to beta-functions from the traditional approach. 
-

@@ -6,6 +6,7 @@ file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/1b3e727b1edc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT8_324F10_Lecture5.pdf
 uid: 1b3e727b-1edc-d9b2-f411-82a3d8438701
 ---
 This resource contains information related to quantization of non-abelian gauge theories.
-

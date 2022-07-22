@@ -5,6 +5,7 @@ file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/cd08ba6a583a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT8_324F10_Lecture15.pdf
 uid: cd08ba6a-583a-c6f2-ef80-6347b2541199
 ---
 This resource contains information related to anomalous magnetic moment.
-

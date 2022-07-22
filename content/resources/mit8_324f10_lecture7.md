@@ -5,6 +5,7 @@ file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/5b5cf13e2168
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT8_324F10_Lecture7.pdf
 uid: 5b5cf13e-2168-2d4e-e52d-f89ddbe87d1a
 ---
 This resource contains information related to field and mass renormalizations.
-

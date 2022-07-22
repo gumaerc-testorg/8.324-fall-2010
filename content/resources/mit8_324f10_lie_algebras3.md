@@ -6,6 +6,7 @@ file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/dbe4c38c5bd6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT8_324F10_lie_algebras3.pdf
 uid: dbe4c38c-5bd6-6da2-2315-508698db87ba
 ---
 This resource contains information related to continuous symmetries and Lie groups.
-
