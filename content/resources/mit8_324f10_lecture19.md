@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to cancellation of divergences.
 file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/88a9adf745a4580526ea6f632c7f7127_MIT8_324F10_Lecture19.pdf
+file_size: 104075
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
