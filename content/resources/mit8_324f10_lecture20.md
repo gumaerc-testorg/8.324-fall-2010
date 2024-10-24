@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to wilson's approach to field
   theories.
-file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/afe2d047abdb715b4dc8feebd6ebb858_MIT8_324F10_Lecture20.pdf
+file: /ol-ocw-studio-app/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/afe2d047abdb715b4dc8feebd6ebb858_MIT8_324F10_Lecture20.pdf
 file_size: 128490
 file_type: application/pdf
 learning_resource_types:

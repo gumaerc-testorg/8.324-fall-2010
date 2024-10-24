@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to non-abelian generalizations:
   yang-mills theory.'
-file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/fa941a1dfc792c352ff23669a23f02de_MIT8_324F10_Lecture3.pdf
+file: /ol-ocw-studio-app/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/fa941a1dfc792c352ff23669a23f02de_MIT8_324F10_Lecture3.pdf
 file_size: 147567
 file_type: application/pdf
 learning_resource_types:
