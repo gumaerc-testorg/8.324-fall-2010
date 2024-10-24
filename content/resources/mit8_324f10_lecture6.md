@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to becchi-rouet-stora-tyutin
   (BRST) symmetry, physical states and unitarity.
-file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/573db088e154cfa40d05a4b471461a28_MIT8_324F10_Lecture6.pdf
+file: /ol-ocw-studio-app/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/573db088e154cfa40d05a4b471461a28_MIT8_324F10_Lecture6.pdf
 file_size: 130863
 file_type: application/pdf
 learning_resource_types:
