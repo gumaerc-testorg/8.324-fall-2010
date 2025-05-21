@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to vacuum polarization.
-file: /ol-ocw-studio-app/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/4011862a0e45c9328c9eae315bab4517_MIT8_324F10_Lecture16.pdf
+file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/4011862a0e45c9328c9eae315bab4517_MIT8_324F10_Lecture16.pdf
 file_size: 223741
 file_type: application/pdf
 learning_resource_types:

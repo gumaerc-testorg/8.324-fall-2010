@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to s-matrix elements and LSZ
   reduction.
-file: /ol-ocw-studio-app/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/9b9756b6f73bfd0c558e4ea9a933650d_MIT8_324F10_Lecture11.pdf
+file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/9b9756b6f73bfd0c558e4ea9a933650d_MIT8_324F10_Lecture11.pdf
 file_size: 164899
 file_type: application/pdf
 learning_resource_types:
