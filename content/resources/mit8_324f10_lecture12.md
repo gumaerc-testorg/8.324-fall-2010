@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to renormalized lagrangian.
-file: /ol-ocw-studio-app/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/b74f3c93aa882d44b8cb39e375372b45_MIT8_324F10_Lecture12.pdf
+file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/b74f3c93aa882d44b8cb39e375372b45_MIT8_324F10_Lecture12.pdf
 file_size: 157220
 file_type: application/pdf
 learning_resource_types:

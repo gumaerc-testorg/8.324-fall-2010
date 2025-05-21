@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to anomalous magnetic moment.
-file: /ol-ocw-studio-app/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/cd08ba6a583ac6f2ef806347b2541199_MIT8_324F10_Lecture15.pdf
+file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/cd08ba6a583ac6f2ef806347b2541199_MIT8_324F10_Lecture15.pdf
 file_size: 170260
 file_type: application/pdf
 learning_resource_types:

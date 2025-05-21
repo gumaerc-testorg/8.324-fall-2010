@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to renormalization group flow.
-file: /ol-ocw-studio-app/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/053919e8f0c9f79bd9ac7ae664d3bb60_MIT8_324F10_Lecture21.pdf
+file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/053919e8f0c9f79bd9ac7ae664d3bb60_MIT8_324F10_Lecture21.pdf
 file_size: 161732
 file_type: application/pdf
 learning_resource_types:

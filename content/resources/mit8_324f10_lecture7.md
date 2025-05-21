@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to field and mass renormalizations.
-file: /ol-ocw-studio-app/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/5b5cf13e21682d4ee52df89ddbe87d1a_MIT8_324F10_Lecture7.pdf
+file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/5b5cf13e21682d4ee52df89ddbe87d1a_MIT8_324F10_Lecture7.pdf
 file_size: 155688
 file_type: application/pdf
 learning_resource_types:
