@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to unstable particles and
   resonances.
-file: /courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/d32c13f5e734728beaec81b7a4e363d9_MIT8_324F10_Lecture10.pdf
+file: /ol-ocw-studio-app/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/d32c13f5e734728beaec81b7a4e363d9_MIT8_324F10_Lecture10.pdf
 file_size: 240572
 file_type: application/pdf
 learning_resource_types:
