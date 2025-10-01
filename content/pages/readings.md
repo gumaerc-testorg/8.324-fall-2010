@@ -138,7 +138,7 @@ Zee, A. _Quantum Field Theory in a Nutshell._ Princeton, NJ: Princeton Universit
 A fun book that deals briefly with many of the key ideas and uses of QFT.
 
 Srednicki, Mark. _Quantum Field Theory._ Cambridge, UK: Cambridge University Press, 2007. ISBN: 9780521864497.  
-Very readable and comprehensive. Structured somewhat differently from this course. Part I (spin 0) and Part II (spin 1/2) are available at [http://arxiv.org/abs/hep-th/0409035](http://arxiv.org/abs/hep-th/0409035) and [http://arxiv.org/abs/hep-th/0409036](http://arxiv.org/abs/hep-th/0409036).
+Very readable and comprehensive. Structured somewhat differently from this course. Part I (spin 0) and Part II (spin 1/2) are available at {{% resource_link "85a270af-e5ca-4967-b302-683b19b04dfb" "http://arxiv.org/abs/hep-th/0409035" %}} and {{% resource_link "8ce81aef-d05a-4dc5-8ff2-68182290ca16" "http://arxiv.org/abs/hep-th/0409036" %}}.
 
 Banks, Tom. _Modern Quantum Field Theory: A Concise Introduction_. Cambridge, UK: Cambridge University Press, 2008. ISBN: 9780521850827.  
 Modern, insightful treatment of many important topics.
